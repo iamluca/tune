@@ -1,0 +1,15 @@
+# JetBrains folder
+.idea
+
+# Production config file, create your own
+config.js
+
+# Node Modules
+node_modules
+
+# lock Files
+package-lock.json
+yarn.lock
+
+# Bot logs
+logs
